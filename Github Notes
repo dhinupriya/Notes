@@ -1,0 +1,18 @@
+Four Stages/Columns:
+
+1. Local folder
+2. Staging area.  —> git add . (. will move all the files , git add file1 file2 file3 —> )
+3. Local Repository —> git commit -m “message” (hypen is a flag (-m message)) message is given in double quotes. (. git commit -m “message”)
+4. Remote Repository (GitHub) —> git push -u origin branch name
+
+Git Commands:
+
+Git checkout main —>  To switch the branch to main
+git -v (to check version)
+Git init (creates .git folder in the local folder (point 1))
+Ls -la (will list all the files and .files)
+Ls (will list only the files and not dot files)
+
+
+Password -> use access tokens —> path to get tat 
+Path —> settings—> developer settings—>personal access tokens —> tokens(classic)
